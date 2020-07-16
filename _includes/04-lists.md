@@ -1,2 +1,2 @@
-# It can be ordered.
-## It can be unordered.
+- Item 1
+- Item 2
